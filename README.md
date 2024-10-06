@@ -9,5 +9,4 @@ We used [LUNA16 dataset(Lung Nodule Analysis 2016)](https://luna16.grand-challen
 
 ## LMLCC-Net:
 
-<img src="LMLCC-NET.jpg" alt="Image" style="width:600px;height:250px;" />
 <img src="LMLCC-NET.jpg" alt="Image" width="600" height="250"/>
