@@ -9,4 +9,8 @@ We used [LUNA16 dataset(Lung Nodule Analysis 2016)](https://luna16.grand-challen
 
 ## LMLCC-Net:
 
+Used the processed lung nodules as inputs to 3D Convolutional Neural Network with the following network architecture to classify the lung CT data:
+
 <img src="LMLCC-Net.jpg" alt="Image" width="800" height="500"/>
+
+ (a) LCC-Net (b) Pipeline of our proposed framework, LMLCC-Net
